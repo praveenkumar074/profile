@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://raw.githubusercontent.com/praveen2git/praveen2git/main/header_.png)
 
 <h1 align="center"> Hi, I'm Praveen 🦊 ! </h1>
 

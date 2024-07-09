@@ -124,12 +124,12 @@ A 29 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 I created these images, feel free to use them.
 -->
 <p align="center">
-  <a href="https://www.patreon.com/praveen2git" target="_blank">
+  <!--<a href="https://www.patreon.com/praveen2git" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveen2git" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-paypal.png"/>
-  </a>
+  </a>-->
   <a href="https://buymeacoffee.com/pk4888145l" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
   </a>

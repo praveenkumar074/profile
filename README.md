@@ -91,13 +91,7 @@ A 29 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 <img src="https://raw.githubusercontent.com/praveen2git/praveen2git/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/praveen2git/count.svg?"  />
-</div>
-
-###
 
 <br>
 
@@ -125,6 +119,13 @@ A 29 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/praveen2git/count.svg?"  />
+</div>
+
+###
 
 
 

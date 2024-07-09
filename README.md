@@ -7,14 +7,14 @@
 A 29 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
-![age](https://img.shields.io/badge/age-23-blue)
+![age](https://img.shields.io/badge/age-29-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Salemm-3c9)
+![living](https://img.shields.io/badge/living-Salem-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/praveen2git/praveen2git/47c7daab09f4fefb9d7c8eecbf9313bd596c01d7/git-header.svg" />
 
-- 🌱 I’m currently learning .NET Core, Blockchain and DevOps 
-- 👯 I’m looking to collaborate on MERN, .NET projects and Basic Web Dev stuff
+- 🌱 I’m currently learning React Js, Node Js, Blockchain and DevOps 
+- 👯 I’m looking to collaborate on React Js, Node Js projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/praveen2git) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
@@ -130,7 +130,7 @@ I created these images, feel free to use them.
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveen2git" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-paypal.png"/>
   </a>
-  <a href="https://www.buymeacoffee.com/praveen2git" target="_blank">
+  <a href="https://buymeacoffee.com/pk4888145l" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
   </a>
 </p>

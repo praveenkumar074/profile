@@ -9,9 +9,9 @@ A 29 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 ![age](https://img.shields.io/badge/age-23-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Bangalore-3c9)
+![living](https://img.shields.io/badge/living-Salemm-3c9)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/praveen2git/praveen2git/47c7daab09f4fefb9d7c8eecbf9313bd596c01d7/git-header.svg" />
 
 - 🌱 I’m currently learning .NET Core, Blockchain and DevOps 
 - 👯 I’m looking to collaborate on MERN, .NET projects and Basic Web Dev stuff
@@ -103,7 +103,7 @@ A 29 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
+<img src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/dev.gif" >
   
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
@@ -118,6 +118,22 @@ A 29 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 <a href="https://dev.to/Praveen"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
+
+## Support me
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.patreon.com/praveen2git" target="_blank">
+    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-patreon.png"/>
+  </a>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveen2git" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-paypal.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/praveen2git" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
+  </a>
+</p>
 
 ###
 

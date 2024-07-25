@@ -131,7 +131,7 @@ I created these images, feel free to use them.
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-paypal.png"/>
   </a>-->
   <a href="https://buymeacoffee.com/pk4888145l" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png" target="_new"/>
   </a>
 </p>
 
